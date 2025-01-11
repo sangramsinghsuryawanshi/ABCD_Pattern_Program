@@ -35,7 +35,6 @@ public class AbcdHollowPattern
 	}
 	public static void main(String[] args) {
 		
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter n number: ");
 		int n = sc.nextInt();
